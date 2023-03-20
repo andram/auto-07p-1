@@ -29,3 +29,4 @@ plaut04/src/gmainqt.moc.c++
 test/verification/*.html
 test/*_log*
 demos/python/test/
+.ipynb_checkpoints/
